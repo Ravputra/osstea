@@ -1,0 +1,2 @@
+# osstea
+tea testnet
